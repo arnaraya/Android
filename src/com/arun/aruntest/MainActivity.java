@@ -3,7 +3,7 @@ package com.arun.aruntest;
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
-
+// this is a comment line by jothi
 public class MainActivity extends Activity {
 
     @Override
